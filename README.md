@@ -3,7 +3,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5AF727&center=true&vCenter=true&width=700&lines=Sudo+apt-install+coffee+%E2%98%95;Sudo+apt-install++node%E2%98%95" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5AF727&center=true&vCenter=true&width=700&lines=Sudo+apt-install+coffee+%E2%98%95;Sudo+apt-install++node%E2%98%95" alt="Typing SVG" /></a>
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="figma" width="40" height="40"/> </a>

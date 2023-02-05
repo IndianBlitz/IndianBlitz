@@ -1,6 +1,7 @@
 
 <img style="width:200%; height:400px" src="https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5AF727&width=700&lines=Sudo+apt-install+coffee+%E2%98%95;Sudo+apt-install++node" alt="Typing SVG" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>

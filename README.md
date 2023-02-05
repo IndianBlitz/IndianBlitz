@@ -5,3 +5,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IndianBlitz)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=IndianBlitz&color=dc143c)
+
+https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg

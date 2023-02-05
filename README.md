@@ -2,9 +2,7 @@
 <img style="width:200%; height:400px" src="https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg">
 
 
-
-<a align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5AF727&center=true&vCenter=true&width=700&lines=Sudo+apt-install+coffee+%E2%98%95;Sudo+apt-install++node%E2%98%95" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=5AF727&center=true&vCenter=true&width=700&lines=Sudo+apt-install+Eat+%F0%9F%98%8B;Sudo+apt-install++sleep+%F0%9F%92%A4;Sudo+apt-install++sleep+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Sudo+apt-install+repeat+%E2%9E%B0" alt="Typing SVG" /></a>
 
 
 
